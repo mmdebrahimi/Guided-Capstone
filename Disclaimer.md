@@ -1,0 +1,7 @@
+Limitation of Liability: Under no circumstance shall the author, or his affiliates, partners, suppliers or locensors be liable from any direct
+or indirect, incidential, consequential, special or examplary damages arisin our of or in connection with your access or use of, or inability 
+to access or use the application and/or any third party content and services, wether or not you were advised of the possibility of such damages
+without limiting the generality of the foregoing, author's aggregate liability to you (wether under contract, tort, statute or otherwise) will 
+be nothing. The foregoing limitations will apply  even if the above stated remedy fails of its essential purpose.
+
+BASICALLY USE AT YOUR OWN RISK - I WILL NOT HOLD ANY LIABILITY FOR ANYTHING YOU DO WITH THIS SOFTWARE
